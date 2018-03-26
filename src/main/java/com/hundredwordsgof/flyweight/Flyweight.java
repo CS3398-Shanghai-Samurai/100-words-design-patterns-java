@@ -8,5 +8,5 @@ package com.hundredwordsgof.flyweight;
  */
 public interface Flyweight {
 
-  void operation(Object extrinsicState);
+  void operation(Object extrinsicState); // This is a comment
 }

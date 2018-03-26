@@ -7,6 +7,6 @@ package com.hundredwordsgof.flyweight;
  *
  */
 public interface Flyweight {
-
+  // Josh Flowers is editing this file for A14
   void operation(Object extrinsicState);
 }
